@@ -1,11 +1,3 @@
-# steps
-#  1# imprt srings
-#  2# store values in lists
-#  3# input from user
-#  4# check input from user
-#  5# make list to random
-
-
 import string
 import random
 
